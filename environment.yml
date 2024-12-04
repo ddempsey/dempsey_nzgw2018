@@ -1,0 +1,13 @@
+name: dempsey_nzgw2018
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.9.12
+  - numpy=1.21.5
+  - scipy=1.7.3
+  - ipykernel=6.9.1
+  - ipython=8.2.0
+  - ipywidgets=7.6.5
+  - matplotlib=3.5.1

@@ -1,6 +1,5 @@
 import numpy as np
 from matplotlib import pyplot as plt
-import sympy as sp
 from scipy.integrate import solve_ivp,cumtrapz
 from scipy.optimize import curve_fit
 from scipy.stats import expon,lognorm
